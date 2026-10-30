@@ -19,3 +19,6 @@ Python
 Time module
 Match-case statement
 
+Requirements
+Python 3.10 or above
+
