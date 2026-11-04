@@ -1,10 +1,10 @@
-Python Calculator 🧮
+Python Calculator 
 
-About the Project
+-About the Project
 This is a simple calculator program built using Python.
 It allows users to perform basic mathematical operations.
 
-Features
+-Features
 Addition (+)
 Subtraction (-)
 Multiplication (*)
@@ -14,11 +14,11 @@ User name input
 Error handling using try-except
 Exit option
 
-Technologies Used
+-Technologies Used
 Python
 Time module
 Match-case statement
 
-Requirements
+-Requirements
 Python 3.10 or above
 
