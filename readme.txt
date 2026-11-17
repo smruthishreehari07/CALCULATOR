@@ -1,5 +1,4 @@
 Python Calculator 
-
 About the Project
 -This is a simple calculator program built using Python.
 -It allows users to perform basic mathematical operations.
